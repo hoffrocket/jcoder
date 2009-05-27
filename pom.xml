@@ -13,6 +13,7 @@
           <target>1.5</target>
         </configuration>
       </plugin>
+<!-- comment here -->
       <plugin>
         <artifactId>maven-clover-plugin</artifactId>
         <executions>
